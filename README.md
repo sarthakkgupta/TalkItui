@@ -1,7 +1,7 @@
 # talkit
 
-A new Flutter project.
-
+I have created the exact UI of the screenshot sent on the task. And have implemented many of the functions like push navigate through each comment and like. 
+Created all 3 pages and tried to keep the UI as similar as possible.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
